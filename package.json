@@ -1,0 +1,17 @@
+{
+  "name": "oauth-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0"
+  }
+}
